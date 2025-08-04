@@ -46,3 +46,15 @@ Induction-
 ### Topic- how  to make interest in maths and science with experiments
 ##  Dr. Priya darshni
 ### Topic- universal human values 
+# Day 4
+# Date - 4-08-2025 
+# 9:30 to 10:30.    
+## Rajgir Kaur talked about  the  syllabus of  chemistry  for CSE students 
+# 10:30 to 11:30 
+## p2p lecture  about  basics of C++
+# 11:30 to 12:30.     Break 
+# 12:30 to 3:30.    Auditorium 
+## Dr. Priya darshni 
+### Topic  universal human values- 2
+# session by causmic club 
+
