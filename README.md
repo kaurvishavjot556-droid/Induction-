@@ -57,4 +57,14 @@ Induction-
 ## Dr. Priya darshni 
 ### Topic  universal human values- 2
 # session by causmic club 
-
+# Day 5 
+# Date  05-08-2025 
+# 9:30 to 10:30 
+## prof. Astik
+### Topic  introduction  session 
+# 10:30 to 11:30 
+## prof. Rajgir Kaur
+### Topic - Rewise maths  formula of  12th calss
+# 11:30 to 12:30 
+## prof.  Ranbir Kaur
+### Topic - basics of BEEE
