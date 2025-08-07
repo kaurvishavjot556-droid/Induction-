@@ -68,7 +68,7 @@ Induction-
 # 11:30 to 12:30 
 ## prof.  Ranbir Kaur
 ### Topic - basics of BEEE
-# Day 5
+# Day 6
 # Date  06-08-2025
 # 9:30 to 10:30 
 ## prof Ranbir  Kaur
@@ -80,7 +80,18 @@ Induction-
 ### Prof. Dr.Arvind dhingra 
 ### Mr. Jasvinder singh sekhon 
 ### Dr. lakhvir singh khana
-
+# Day 7 
+# Date  07-08-2025
+# 9:30 to 12:30.        Auditorium 
+### prof.  Amit kamra
+### Dr. parminder  singh
+### Dr. Randhir  singh
+# 12:30 to 1:30.         Break 
+#  1:30 to 2:30.         chemistry 
+## prof Ranbir Kaur 
+### Topic  introduction 
+# 2:30 to 3:30.         
+### Topic.             P2P 
 
 
 
