@@ -77,6 +77,10 @@ Induction-
 # Topic  Lecture of P2P 
 # 11:30 to 12:30.            Break
 # 12:30 to 4:00.         Auditorium 
-Prof.
+### Prof. Dr.Arvind dhingra 
+### Mr. Jasvinder singh sekhon 
+### Dr. lakhvir singh khana
+
+
 
 
