@@ -68,3 +68,15 @@ Induction-
 # 11:30 to 12:30 
 ## prof.  Ranbir Kaur
 ### Topic - basics of BEEE
+# Day 5
+# Date  06-08-2025
+# 9:30 to 10:30 
+## prof Ranbir  Kaur
+### Topic - chapter 1  of BEEE 
+# 10:30 to 11:30
+# Topic  Lecture of P2P 
+# 11:30 to 12:30.            Break
+# 12:30 to 4:00.         Auditorium 
+Prof.
+
+
