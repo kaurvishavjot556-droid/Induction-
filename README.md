@@ -92,6 +92,20 @@ Induction-
 ### Topic  introduction 
 # 2:30 to 3:30.         
 ### Topic.             P2P 
+# Day 8
+# Date  08-08-2025
+# 9:00 to 10:30.      formation of  ID card
+# 10:30 to 12:00 
+## prof. parneet kaur.       English 
+# Day 9
+# Date 11-08-2025
+# 8:30 to 9:30.          Maths lecture 
+# 9:30 to 10:30.        BEEE
+## PROF. RANBIR KAUR
+# 10:30 to 12:30.     prof. Kanwalpreet kaur
+## Topic.    Introduction of  pps
+# 12:30 to 1:30.        Break 
+# 1:30 to 2:30.        Mentoring  class and professional  development 
 
 
 
