@@ -106,6 +106,22 @@ Induction-
 ## Topic.    Introduction of  pps
 # 12:30 to 1:30.        Break 
 # 1:30 to 2:30.        Mentoring  class and professional  development 
+# Day 10 
+# Date 12-08-2025
+# 8:30 to 10:30 
+## prof. Misha.           English lab
+## Topic.   introduction 
+# 10:30 to 11:30.       
+## prof. Ranbir Kaur 
+## Topic  unit 1 BEEE 
+# 11:30 to 12:30.         break
+# 12:30 to 1:30.         
+## Maths lecture 
+# 1:30 to 2:30.
+prof. rajbir kaur
+
+
+
 
 
 
