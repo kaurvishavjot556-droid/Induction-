@@ -119,7 +119,29 @@ Induction-
 ## Maths lecture 
 # 1:30 to 2:30.
 prof. rajbir kaur
-
+# Day 11
+# Date   13-08-2025
+# 10:30 to 11:30
+## prof. Rajbir kaur
+## Topic.  basics of  water chemistry 
+# 11:30 to 12:30.         Break 
+# 12:30 to 1:30.   
+## Maths lecture 
+## Topic  partial differentiation 
+# 1:30 to 2:30 
+## prof Misha
+## Topic.    communication skills 
+# 2:30 to 4:30 
+## prof. Baljit singh.          BEEE lab
+# Day 12
+# Date  14-08-2025 
+# 8:30 to 10:30.  
+## prof. Rajbir kaur.       chemistry  lab 
+# 10:30 to 12:30.       
+## prof. kanwalpreet kaur 
+ Topic.     what is  a software  and it's types
+ # 12:30 to 1:30.        Break 
+ 
 
 
 
